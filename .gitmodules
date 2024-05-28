@@ -1,0 +1,3 @@
+[submodule "PredictSwap/lib/forge-std"]
+	path = PredictSwap/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
